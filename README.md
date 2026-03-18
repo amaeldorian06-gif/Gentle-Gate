@@ -1,4 +1,4 @@
-## Run Locally
+## Run
 
 **Prerequisites:**  Node.js
 
