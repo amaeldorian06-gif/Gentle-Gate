@@ -1,2 +1,20 @@
-# Gentle-Gate
-Gentle-Gate transforme WhatsApp en une machine de vente autonome 24h/24. Propulsé par l'IA Gemini 3.0, il gère vos clients, analyse leur humeur et relance les indécis automatiquement. Résilient face aux délestages grâce au Cloud, il garantit une croissance ininterrompue sans effort humain.  Une innovation signée Groupe Gentle_Emergence.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/066a13e3-41b7-4c40-80c7-f40893fcfb6b
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
